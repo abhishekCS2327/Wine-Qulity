@@ -39,7 +39,7 @@ The model is deployed using Streamlit, allowing users to input wine characterist
 - [wine.csv](https://www.kaggle.com/datasets/yasserh/wine-quality-dataset/data): The original dataset.
 - `wine.ipynb`: Jupyter notebook containing the Exploratory Data Analysis.
 - `requirements.txt`: It contains the modules that are needed to create this project.
-- `model.pkl`: Serialized Logistic Regression model.
+- `wine.pkl`: Serialized Logistic Regression model.
 - [app.py](https://wine-qulity-4ja5kkfv5stfkjhfp9ghff.streamlit.app/): Streamlit application script for deploying the model.
 
 ## How to Run the Project
